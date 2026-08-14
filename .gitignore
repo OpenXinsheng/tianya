@@ -1,0 +1,15 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
