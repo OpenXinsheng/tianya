@@ -673,18 +673,18 @@ NO1：目标盘二期，东南朝外围，80 平+赠送20 平，三房两厅一�
 > 作者:dindindanglaile 日期:2017-07-06 10:54发一个近期拍卖房的截图，姐上面说的顶级豪宅，在6套在拍。价格是X 家挂盘2/3 左右。关注房子两个月，拍卖网上房源越来越多，说明了什么？
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F278144840.jpg{EIMAGE}作者:dindindanglaile 日期:2017-07-06 12:16@dindindanglaile 2017-07-06 10:54:36发一个近期拍卖房的截图，姐上面说的顶级豪宅，在6套在拍。价格是X 家挂盘2/3 左右。关注房子两个月，拍卖网上房源越来越多，说明了什么？
+> <!-- 图:278144840.jpg | 原 URL: http://img3.laibafile.cn/p/m/278144840.jpg -->作者:dindindanglaile 日期:2017-07-06 12:16@dindindanglaile 2017-07-06 10:54:36发一个近期拍卖房的截图，姐上面说的顶级豪宅，在6套在拍。价格是X 家挂盘2/3 左右。关注房子两个月，拍卖网上房源越来越多，说明了什么？
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F278144840.jpg{EIMAGE}
+> <!-- 图:278144840.jpg | 原 URL: http://img3.laibafile.cn/p/m/278144840.jpg -->
 >
 >> -----------------------------细看了一下，豪宅这6 套，拍卖时间越靠后越便宜，法院这么公告出来，有心要造成流拍？下次拍卖会在前次拍卖的价格上下降10%，三次过后，价格基本算腰斩了。
 
 >
-> 作者:dindindanglaile 日期:2017-07-12 10:52{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F278537528.png{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F278537553.png{EIMAGE}说深圳没怎么降的，大家看一下，龙岗的新房均价是不是很给力？姐从4 万左右开始盯，一直看它在3.5 左右摇摆，前不久有天是3.1 万，昨天终于出来2.8 万的了。
+> 作者:dindindanglaile 日期:2017-07-12 10:52<!-- 图:278537528.png | 原 URL: http://img3.laibafile.cn/p/m/278537528.png --><!-- 图:278537553.png | 原 URL: http://img3.laibafile.cn/p/m/278537553.png -->说深圳没怎么降的，大家看一下，龙岗的新房均价是不是很给力？姐从4 万左右开始盯，一直看它在3.5 左右摇摆，前不久有天是3.1 万，昨天终于出来2.8 万的了。
 >
 >
-> 作者:dindindanglaile 日期:2017-07-12 11:10{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F278538860.png{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F278538919.png{EIMAGE}再看二手房，同一套房子，房天下的价格和中介微信强推的价格，相差这么多，不是大甩卖是什么？
+> 作者:dindindanglaile 日期:2017-07-12 11:10<!-- 图:278538860.png | 原 URL: http://img3.laibafile.cn/p/m/278538860.png --><!-- 图:278538919.png | 原 URL: http://img3.laibafile.cn/p/m/278538919.png -->再看二手房，同一套房子，房天下的价格和中介微信强推的价格，相差这么多，不是大甩卖是什么？
 >
 >
 > 还有，这个房子姐特别熟，认识该楼盘至少十位业主。
@@ -734,7 +734,7 @@ NO1：目标盘二期，东南朝外围，80 平+赠送20 平，三房两厅一�
 >> -----------------------------刚看了广州租购同权的政策，估计真有那天，你买得起却不想要。
 
 >
-> 作者:dindindanglaile 日期:2017-07-22 09:48{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F279219234.jpg{EIMAGE}关于租售同权，朋友圈的中介是这样解读的，真正是要钱不要脸，当人是傻瓜的节奏啊。涨租金？姐现在租的房子，比才搬走的租客租金少了10%，房东还按姐要求添了家私，姐要是计较，再往下砍都是可行的。
+> 作者:dindindanglaile 日期:2017-07-22 09:48<!-- 图:279219234.jpg | 原 URL: http://img3.laibafile.cn/p/m/279219234.jpg -->关于租售同权，朋友圈的中介是这样解读的，真正是要钱不要脸，当人是傻瓜的节奏啊。涨租金？姐现在租的房子，比才搬走的租客租金少了10%，房东还按姐要求添了家私，姐要是计较，再往下砍都是可行的。
 >
 >
 > 姐住这个片区，地铁边上的农民房，两房租金也就1.5K左右，不靠地铁的，1K 以内大把。中心城的小区房，老一点学位锁定的那种，两房也就3K，新的高层小区，三房4K 足够了。一百万放银行，利息就足够让你住得舒服又体面。
@@ -819,7 +819,7 @@ NO1：目标盘二期，东南朝外围，80 平+赠送20 平，三房两厅一�
 >> -----------------------------谢谢！或者是因为姐人品好哩！
 
 >
-> 作者:dindindanglaile 日期:2017-12-11 14:43{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F287646733.jpg{EIMAGE}记号，划时代的一举。
+> 作者:dindindanglaile 日期:2017-12-11 14:43<!-- 图:287646733.jpg | 原 URL: http://img3.laibafile.cn/p/m/287646733.jpg -->记号，划时代的一举。
 >
 >
 > 作者:dindindanglaile 日期:2017-12-12 21:59今早七点房东留言，让姐配合看房，他们夫妻议定，元旦前要把房子卖掉。
@@ -953,7 +953,7 @@ NO1：目标盘二期，东南朝外围，80 平+赠送20 平，三房两厅一�
 > 投资者有些是公司，有些是个人，违约对公司的伤害远没有个人大，很多人是拿棺材本投的，后来维权个别老人是吸着氧坐轮椅去的，到现在也没个说法。
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F288341366.jpg{EIMAGE}作者:dindindanglaile 日期:2017-12-27 10:46（原标题：深圳坪山1550 套安居房即将认购每平米售价7156 元_金羊网新闻）
+> <!-- 图:288341366.jpg | 原 URL: http://img3.laibafile.cn/p/l/288341366.jpg -->作者:dindindanglaile 日期:2017-12-27 10:46（原标题：深圳坪山1550 套安居房即将认购每平米售价7156 元_金羊网新闻）
 >
 >
 > 每平方米均价为7156 元据了解，新城东方丽园安居型商品房项目位于坪山区横坪路汤坑小学旁，临深汕公路、横坪快速干道、锦龙大道，共有安居型商品房1550 套房源，其中建筑面积约65 平方米至75 平方米的两房户型1028 套，建筑面积约85 平发米的三房户型522 套。项目开发建设单位为广东省水电集团，坪山区政府已收购全部房源并作为出卖方，配售均价为7156元/平发米（按建筑面积计算，为毛坯房价格）。记者了解到，这个配售价格基本是周边次新商品房不到四分之一的价格。
@@ -1094,7 +1094,7 @@ http://anju.szhome.com/720/在线看房。在册轮候人现场看房需通过�
 
 所以，姐真不担心钱贬值。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F288912478.jpg{EIMAGE}作者:dindindanglaile 日期:2018-01-10 18:55作者：一切归于湮灭1 时间：2018-01-08 16:06:50别妄想买在最低点！
+<!-- 图:288912478.jpg | 原 URL: http://img3.laibafile.cn/p/l/288912478.jpg -->作者:dindindanglaile 日期:2018-01-10 18:55作者：一切归于湮灭1 时间：2018-01-08 16:06:50别妄想买在最低点！
 
 尽快入手，现在还能买到理想的房子。这一波调整已经差不多到期了，等真正开涨时，不但拿不到自己想要的房子，差房子也会步入快速上涨通道。
 
@@ -1220,13 +1220,13 @@ dindindanglaile：2018-01-09 16:18:23
 
 上面有一楼被天涯删了，到底是谁在害怕？好吧，贴图总行吧！
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F289669299.jpg{EIMAGE}作者:dindindanglaile 日期:2018-01-25 18:35刚刚看到中介发的朋友圈，可以说是年前最好的消息了。
+<!-- 图:289669299.jpg | 原 URL: http://img3.laibafile.cn/p/l/289669299.jpg -->作者:dindindanglaile 日期:2018-01-25 18:35刚刚看到中介发的朋友圈，可以说是年前最好的消息了。
 
 贷款之门就这样被锁死，接盘的有心无力，房子还是用来租吧，房东们这下心定了。
 
 姐此刻心情可用一句诗来形容：大笑一声出门去，我辈岂是篷嵩人？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F289690320.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F289690322.jpg{EIMAGE}作者:dindindanglaile 日期:2018-01-25 18:55再补一刀：龙岗这片，大部分房子的计税价（即房产交易中心的评估价）大约在1.5 万上下，十年以上房龄1.3 万右，五年以内1.8 万左右。
+<!-- 图:289690320.jpg | 原 URL: http://img3.laibafile.cn/p/l/289690320.jpg --><!-- 图:289690322.jpg | 原 URL: http://img3.laibafile.cn/p/l/289690322.jpg -->作者:dindindanglaile 日期:2018-01-25 18:55再补一刀：龙岗这片，大部分房子的计税价（即房产交易中心的评估价）大约在1.5 万上下，十年以上房龄1.3 万右，五年以内1.8 万左右。
 
 高于以上价格成交，就要多交各种税。挈税1 个点（二套3 个点），个税1 个点，万一不满二，增值税及附税要5.6左右。
 
@@ -1281,7 +1281,7 @@ dindindanglaile：2018-01-09 16:18:23
 > 作者:dindindanglaile 日期:2018-02-07 22:26感觉部分业主心态已经崩了，不然这个区域，不能是这个价呀！
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F290210651.jpg{EIMAGE}
+> <!-- 图:290210651.jpg | 原 URL: http://img3.laibafile.cn/p/l/290210651.jpg -->
 >
 >
 > 作者:dindindanglaile 日期:2018-02-08 10:55昨天发过，被删？
@@ -1290,7 +1290,7 @@ dindindanglaile：2018-01-09 16:18:23
 > 好吧，南山这个价格，业主内心一定崩溃了。
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F290223759.jpg{EIMAGE}作者:dindindanglaile 日期:2018-02-08 14:26上面那个图，还真是姐看错了。
+> <!-- 图:290223759.jpg | 原 URL: http://img3.laibafile.cn/p/l/290223759.jpg -->作者:dindindanglaile 日期:2018-02-08 14:26上面那个图，还真是姐看错了。
 >
 >
 > 重发是因为有回复提醒，点进去却看不见自己发的。
@@ -1362,7 +1362,7 @@ dindindanglaile：2018-01-09 16:18:23
 > 作者:dindindanglaile 日期:2018-02-24 18:22去中山一趟，发现城区及高速两边，满眼尽是房子，估计再迁入500 万人口，一点问题都没。
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F290726232.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F290726234.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F290726237.jpg{EIMAGE}作者:dindindanglaile 日期:2018-03-10 10:20两会，可以看的贴扎了，敢说话的人禁了。与旧时焚书坑儒何异？
+> <!-- 图:290726232.jpg | 原 URL: http://img3.laibafile.cn/p/l/290726232.jpg --><!-- 图:290726234.jpg | 原 URL: http://img3.laibafile.cn/p/l/290726234.jpg --><!-- 图:290726237.jpg | 原 URL: http://img3.laibafile.cn/p/l/290726237.jpg -->作者:dindindanglaile 日期:2018-03-10 10:20两会，可以看的贴扎了，敢说话的人禁了。与旧时焚书坑儒何异？
 >
 >
 > 有人想知道深圳的情况，贴两张成交图，自个儿看吧！
@@ -1377,7 +1377,7 @@ dindindanglaile：2018-01-09 16:18:23
 > 希望有成交，别冻硬了哈。
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F291318724.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F291318727.jpg{EIMAGE}作者:dindindanglaile 日期:2018-03-11 21:11审核半小时都不过，回复不行，评论也不行，直接禁了姐吧！
+> <!-- 图:291318724.jpg | 原 URL: http://img3.laibafile.cn/p/l/291318724.jpg --><!-- 图:291318727.jpg | 原 URL: http://img3.laibafile.cn/p/l/291318727.jpg -->作者:dindindanglaile 日期:2018-03-11 21:11审核半小时都不过，回复不行，评论也不行，直接禁了姐吧！
 >
 >
 > 作者:dindindanglaile 日期:2018-03-12 10:37贴子果然已经不能回复？昨晚姐发的回复一夜也未审核通过。
@@ -1386,7 +1386,7 @@ dindindanglaile：2018-01-09 16:18:23
 > 刚收到网友的短信，截图下来试一下。
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F291389651.jpg{EIMAGE}作者:dindindanglaile 日期:2018-03-13 22:14这两天大约写了十条，天*牙吃了九条。
+> <!-- 图:291389651.jpg | 原 URL: http://img3.laibafile.cn/p/l/291389651.jpg -->作者:dindindanglaile 日期:2018-03-13 22:14这两天大约写了十条，天*牙吃了九条。
 >
 >
 > 姐这样家长里短都容不下了。
@@ -1395,19 +1395,19 @@ dindindanglaile：2018-01-09 16:18:23
 > 好吧，发图。
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F291469638.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F291469641.jpg{EIMAGE}作者:dindindanglaile 日期:2018-03-14 10:03@友二厦，那个人还能自救，比如降价卖房，比如信用卡拆借，比如借力女朋友等等，目前他应该还扛得住。
+> <!-- 图:291469638.jpg | 原 URL: http://img3.laibafile.cn/p/l/291469638.jpg --><!-- 图:291469641.jpg | 原 URL: http://img3.laibafile.cn/p/l/291469641.jpg -->作者:dindindanglaile 日期:2018-03-14 10:03@友二厦，那个人还能自救，比如降价卖房，比如信用卡拆借，比如借力女朋友等等，目前他应该还扛得住。
 >
 >
 > 即便姐愿意从善如流，那也要看对方什么处境，咱自己天天咸菜就馒头，就别担心人家燕窝断了顿，你说呢？
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F291477795.jpg{EIMAGE}作者:dindindanglaile 日期:2018-03-16 07:40看到网友发龙岗碧桂园的拆迁指标价，忍不住翻了下中介朋友圈。
+> <!-- 图:291477795.jpg | 原 URL: http://img3.laibafile.cn/p/l/291477795.jpg -->作者:dindindanglaile 日期:2018-03-16 07:40看到网友发龙岗碧桂园的拆迁指标价，忍不住翻了下中介朋友圈。
 >
 >
 > 17 年10 月，保利五联项目，卖25000，与碧桂园南约项目相比，地段差不多，只是保利品牌还不如碧桂园深得人心。
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F291570336.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F291570337.jpg{EIMAGE}作者:dindindanglaile 日期:2018-03-25 07:43
+> <!-- 图:291570336.jpg | 原 URL: http://img3.laibafile.cn/p/l/291570336.jpg --><!-- 图:291570337.jpg | 原 URL: http://img3.laibafile.cn/p/l/291570337.jpg -->作者:dindindanglaile 日期:2018-03-25 07:43
 >
 >
 > 昨天约朋友见面聊天，无意得知她弟已失业。家具行业生产老总，之前月薪约3 万，现在1 万都难找。
@@ -1458,7 +1458,7 @@ dindindanglaile：2018-01-09 16:18:23
 > 有多少人的人生，也是这种结局呢？
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F292140286.jpg{EIMAGE}作者:dindindanglaile 日期:2018-03-29 22:31最近好多朋友求介绍酒店前台、餐厅收银之类的员工，
+> <!-- 图:292140286.jpg | 原 URL: http://img3.laibafile.cn/p/l/292140286.jpg -->作者:dindindanglaile 日期:2018-03-29 22:31最近好多朋友求介绍酒店前台、餐厅收银之类的员工，
 >
 >
 > 看来服务业严重缺人，当一个岗位的收入无法覆盖支出时，就会出现招工难。
@@ -1567,13 +1567,13 @@ dindindanglaile：2018-01-09 16:18:23
 
 这Q 房网，成交价是假的（基本按报价写成交价，反正由他们自己写，不用负法律责任），就这假数据也在一路向下。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F292318157.jpg{EIMAGE}作者:dindindanglaile 日期:2018-04-01 23:01
+<!-- 图:292318157.jpg | 原 URL: http://img3.laibafile.cn/p/l/292318157.jpg -->作者:dindindanglaile 日期:2018-04-01 23:01
 
 伪装者说涨价的图，他还说自己是90 后，手持150 万的3 倍现金，自己是改善型刚需。真是令人自愧不如哈！
 
 他的一大群同行，会不会深夜来顶贴？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F292319439.jpg{EIMAGE}作者:dindindanglaile 日期:2018-04-04 10:41昨天碰到租住小区物业的前台小妹，她说从去年帮姐办理租房合同后，本小区没有一套成交。就是说从去年7 月到现在刚好9 个月，没有卖出一套，网上挂着12 套。
+<!-- 图:292319439.jpg | 原 URL: http://img3.laibafile.cn/p/l/292319439.jpg -->作者:dindindanglaile 日期:2018-04-04 10:41昨天碰到租住小区物业的前台小妹，她说从去年帮姐办理租房合同后，本小区没有一套成交。就是说从去年7 月到现在刚好9 个月，没有卖出一套，网上挂着12 套。
 
 去年办理租赁合同时，姐了解到本小区上半年卖了三套，听说有一套新业主入住后，发现房子有问题，且他打听到自已买贵了不少，所以想借前业主隐瞒房屋缺陷这个事去打官司退房。当时物业这个小妹还说他，都钱货两清了，再闹没意思，你自己又不是没看过房。后面估计也就不了了之了。
 
@@ -1689,7 +1689,7 @@ dindindanglaile：2018-01-09 16:18:23
 
 呵呵，姐怎么那么笨？之前同事聊这些事时，就不会想到开发商快over 了？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F292802987.jpg{EIMAGE}作者:dindindanglaile 日期:2018-04-16 09:15一大早老妈来电话，说弟弟买的商铺，现在同样面积位置也差不多的，开发商在54 万甩卖（条件是一次性付款）。
+<!-- 图:292802987.jpg | 原 URL: http://img3.laibafile.cn/p/l/292802987.jpg -->作者:dindindanglaile 日期:2018-04-16 09:15一大早老妈来电话，说弟弟买的商铺，现在同样面积位置也差不多的，开发商在54 万甩卖（条件是一次性付款）。
 
 弟弟买成80 万，活活亏了26 万。
 
@@ -1737,15 +1737,15 @@ dindindanglaile：2018-01-09 16:18:23
 
 作者:dindindanglaile 日期:2018-04-24 10:42@我爱GD 2018-04-24 01:39:40希望楼主能走出一片康庄大道来！我是彻底对房价绝望了。上海老破小唯一一套住着，根本想换都换不起。老家杭州到处都是货币化安置，拆迁户拿着全款买房，整个就是政府送钱炒房的节奏，发疯了一样。不敢想象北上深能走出下跌的行情来！租售同权也就听听吧，学区房先选择业主的孩子，在有名额多的情况下才会考虑租客。好的学区业主都安排不过来怎么可能安排租户的？不知道深圳怎么样？而且后面只能有公租房廉租房，据说经济适用......
 
- -----------------------------{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F293316514.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F293316545.jpg{EIMAGE}
+ -----------------------------<!-- 图:293316514.jpg | 原 URL: http://img3.laibafile.cn/p/m/293316514.jpg --><!-- 图:293316545.jpg | 原 URL: http://img3.laibafile.cn/p/m/293316545.jpg -->
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F293316552.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F293316553.jpg{EIMAGE}特意回复你，仔细看图片日期，这就是上海前一阵开盘秒光的网签数据，实际成交就是这么惨淡。而且作假的戏码一目了然，看看划红线那个盘，已卖户数一天比一天少。你还着急么？
+<!-- 图:293316552.jpg | 原 URL: http://img3.laibafile.cn/p/m/293316552.jpg --><!-- 图:293316553.jpg | 原 URL: http://img3.laibafile.cn/p/m/293316553.jpg -->特意回复你，仔细看图片日期，这就是上海前一阵开盘秒光的网签数据，实际成交就是这么惨淡。而且作假的戏码一目了然，看看划红线那个盘，已卖户数一天比一天少。你还着急么？
 
 作者:dindindanglaile 日期:2018-04-25 18:29407 楼下面的兄弟，有人评论你，但审核未通过。楼主可见，贴给你了。
 
 你若醒了，也不要忘了谢他。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F293390204.jpg{EIMAGE}作者:dindindanglaile 日期:2018-04-27 11:12往年五一高速貌似不免费，今年新闻说要免，头头们的意思：放假了同志们别宅在家里，走亲访友吃喝玩乐走起来！
+<!-- 图:293390204.jpg | 原 URL: http://img3.laibafile.cn/p/l/293390204.jpg -->作者:dindindanglaile 日期:2018-04-27 11:12往年五一高速貌似不免费，今年新闻说要免，头头们的意思：放假了同志们别宅在家里，走亲访友吃喝玩乐走起来！
 
 嗯，扩大内需嘛，就是这么个意思。
 
@@ -1753,9 +1753,11 @@ dindindanglaile：2018-01-09 16:18:23
 
 狗便，你们到底有多怕？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%
+<!-- 图:l%
 
-2F293535234.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F293535235.jpg{EIMAGE}作者:dindindanglaile 日期:2018-05-06 12:08
+2F293535234.jpg | 原 URL: http://img3.laibafile.cn/p/l%
+
+2F293535234.jpg --><!-- 图:293535235.jpg | 原 URL: http://img3.laibafile.cn/p/l/293535235.jpg -->作者:dindindanglaile 日期:2018-05-06 12:08
 
 ### 中山的朋友请冒泡：
 
@@ -1845,7 +1847,7 @@ dindindanglaile：2018-01-09 16:18:23
 > 房子不是唯一，守护家人，把每一个平凡的日子都过出滋味来，才是我们的正道。
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F294189333.jpg{EIMAGE}作者:dindindanglaile 日期:2018-05-17 17:02@瓷器娃娃我2018-05-17 14:53:52楼主，还记得我吗？卖了省会房的那个！我们签约了，买家好不容易凑齐了首付，然而更奇葩的事情出现了，买家信用卡逾期七八次，征信不行，没有流水，但那不负责任的中介说流水可以作假，征信也可以洗白，我不知道这是真是假！哎，气死我了，这中介简直是太不负责任了！我们这地方房价还在疯涨，但是前几天被约谈了，怕出政策，哎，如果出了政策，我们这地方肯定被冻了！就怕这个中介涮了我们，导致我们卖不出去，我们可是等着......
+> <!-- 图:294189333.jpg | 原 URL: http://img3.laibafile.cn/p/l/294189333.jpg -->作者:dindindanglaile 日期:2018-05-17 17:02@瓷器娃娃我2018-05-17 14:53:52楼主，还记得我吗？卖了省会房的那个！我们签约了，买家好不容易凑齐了首付，然而更奇葩的事情出现了，买家信用卡逾期七八次，征信不行，没有流水，但那不负责任的中介说流水可以作假，征信也可以洗白，我不知道这是真是假！哎，气死我了，这中介简直是太不负责任了！我们这地方房价还在疯涨，但是前几天被约谈了，怕出政策，哎，如果出了政策，我们这地方肯定被冻了！就怕这个中介涮了我们，导致我们卖不出去，我们可是等着......
 >
 >> -----------------------------你说你那里还在涨，是否留在手上也不错？
 
@@ -1853,7 +1855,7 @@ dindindanglaile：2018-01-09 16:18:23
 > 买家这么多问题，贷款肯定困难，为了避免无止境的纠纷，建议你另寻买家。
 >
 >
-> 作者:dindindanglaile 日期:2018-05-18 17:00{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F294363576.png{EIMAGE}鱼顺顺，一名很火的情感分析师，曾是山东维坊某电台的主持人，上过央视半边天，姐曾是她的死忠粉。
+> 作者:dindindanglaile 日期:2018-05-18 17:00<!-- 图:294363576.png | 原 URL: http://img3.laibafile.cn/p/m/294363576.png -->鱼顺顺，一名很火的情感分析师，曾是山东维坊某电台的主持人，上过央视半边天，姐曾是她的死忠粉。
 >
 >
 > 近两年没怎么关注，前阵心血来潮又去她的博客围观，发现她低调了。
@@ -1881,9 +1883,9 @@ dindindanglaile：2018-01-09 16:18:23
 
 一句总结：感谢天涯！涯叔虐姐千万遍，姐待涯叔如初恋。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F294383424.jpg{EIMAGE}作者:dindindanglaile 日期:2018-05-25 19:34最近超市是这么打折的，前所未有，供应商叫苦连天又如何，靠打折冲一下营业额，接下来又是好一阵消费继续萎缩，不打折人都不来了。
+<!-- 图:294383424.jpg | 原 URL: http://img3.laibafile.cn/p/l/294383424.jpg -->作者:dindindanglaile 日期:2018-05-25 19:34最近超市是这么打折的，前所未有，供应商叫苦连天又如何，靠打折冲一下营业额，接下来又是好一阵消费继续萎缩，不打折人都不来了。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F294686330.jpg{EIMAGE}作者:dindindanglaile 日期:2018-05-25 20:25审核，吞贴。
+<!-- 图:294686330.jpg | 原 URL: http://img3.laibafile.cn/p/l/294686330.jpg -->作者:dindindanglaile 日期:2018-05-25 20:25审核，吞贴。
 
 如此草木皆兵，不如列个清单，带降价打折字眼的统统不能发。
 
@@ -1978,7 +1980,7 @@ dindindanglaile：2018-01-09 16:18:23
 > 这个房子离姐住地500 米范围，考察了没租约，可放心拍。
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F294821649.png{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F294821655.png{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F294821659.png{EIMAGE}作者:dindindanglaile 日期:2018-05-29 13:25
+> <!-- 图:294821649.png | 原 URL: http://img3.laibafile.cn/p/m/294821649.png --><!-- 图:294821655.png | 原 URL: http://img3.laibafile.cn/p/m/294821655.png --><!-- 图:294821659.png | 原 URL: http://img3.laibafile.cn/p/m/294821659.png -->作者:dindindanglaile 日期:2018-05-29 13:25
 >
 >
 > **@蕙滢**
@@ -2252,13 +2254,15 @@ dindindanglaile：2018-01-09 16:18:23
 
 当然，那些口口声声卖房回老家的人，是不可能走了，因为没机会了。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F295137127.jpg{EIMAGE}作者:dindindanglaile 日期:2018-06-07 11:49@端端h 2018-06-07 10:38:03{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F295180035.jpg{EIMAGE}关注的中介小哥发的图，去他妈的学区房----------------------------------------------楼主微信已把中介全部屏弊，偶尔有空才点开，看看他们在推什么房子，价格如何，现在看来趋势已经非常明晰了。
+<!-- 图:295137127.jpg | 原 URL: http://img3.laibafile.cn/p/l/295137127.jpg -->作者:dindindanglaile 日期:2018-06-07 11:49@端端h 2018-06-07 10:38:03<!-- 图:295180035.jpg | 原 URL: http://img3.laibafile.cn/p/m/295180035.jpg -->关注的中介小哥发的图，去他妈的学区房----------------------------------------------楼主微信已把中介全部屏弊，偶尔有空才点开，看看他们在推什么房子，价格如何，现在看来趋势已经非常明晰了。
 
 ### 477 楼
 
-作者:dindindanglaile 日期:2018-06-07 11:49@端端h 2018-06-07 10:38:03{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%
+作者:dindindanglaile 日期:2018-06-07 11:49@端端h 2018-06-07 10:38:03<!-- 图:m%
 
-2F295180035.jpg{EIMAGE}关注的中介小哥发的图，去他妈的学区房----------------------------------------------楼主微信已把中介全部屏弊，偶尔有空才点开，看看他们在推什么房子，价格如何，现在看来趋势已经非常明晰了。
+2F295180035.jpg | 原 URL: http://img3.laibafile.cn/p/m%
+
+2F295180035.jpg -->关注的中介小哥发的图，去他妈的学区房----------------------------------------------楼主微信已把中介全部屏弊，偶尔有空才点开，看看他们在推什么房子，价格如何，现在看来趋势已经非常明晰了。
 
 作者:dindindanglaile 日期:2018-06-19 10:16好久不来贴子了，冒个泡表示楼主没有弃贴。
 
@@ -2276,7 +2280,7 @@ dindindanglaile：2018-01-09 16:18:23
 
 ### 482 楼
 
-作者:dindindanglaile 日期:2018-06-21 11:06{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F295728889.png{EIMAGE}深圳的朋友，请认真看一下这张图，M1 在08 年和14 年出现两次低点，与之呼应的08 年断供潮的新闻网上还有很多，14 年是否有断供我尚未知，但房价那时很平稳，市场也不活跃。爆涨是从15 年3 月降准开始，加上当年几次降准降息助推。
+作者:dindindanglaile 日期:2018-06-21 11:06<!-- 图:295728889.png | 原 URL: http://img3.laibafile.cn/p/m/295728889.png -->深圳的朋友，请认真看一下这张图，M1 在08 年和14 年出现两次低点，与之呼应的08 年断供潮的新闻网上还有很多，14 年是否有断供我尚未知，但房价那时很平稳，市场也不活跃。爆涨是从15 年3 月降准开始，加上当年几次降准降息助推。
 
 M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是顶，后面M1 逐步衰退、找底，房价必然跟随。
 
@@ -2292,7 +2296,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 谁说房子是硬通货的？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F295937631.jpg{EIMAGE}
+<!-- 图:295937631.jpg | 原 URL: http://img3.laibafile.cn/p/l/295937631.jpg -->
 
 ### 来自
 
@@ -2302,7 +2306,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 商业地产早到了14 年的价格，还在继续回落，傻子才会去大量接盘。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296171782.jpg{EIMAGE}
+<!-- 图:296171782.jpg | 原 URL: http://img3.laibafile.cn/p/l/296171782.jpg -->
 
 ### 来自
 
@@ -2330,7 +2334,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 上两个绿中介成交图。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296272087.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296272091.jpg{EIMAGE}
+<!-- 图:296272087.jpg | 原 URL: http://img3.laibafile.cn/p/l/296272087.jpg --><!-- 图:296272091.jpg | 原 URL: http://img3.laibafile.cn/p/l/296272091.jpg -->
 
 ### 来自
 
@@ -2356,7 +2360,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 58 上河源二手房多如牛毛，尤其是雅乐居的房子，简直是铺天盖地的量。5000 能出手，那是聪明人才能办得到，获利、套现，多数人还没学会。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296305682.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296305684.jpg{EIMAGE}
+<!-- 图:296305682.jpg | 原 URL: http://img3.laibafile.cn/p/l/296305682.jpg --><!-- 图:296305684.jpg | 原 URL: http://img3.laibafile.cn/p/l/296305684.jpg -->
 
 ### 来自
 
@@ -2382,9 +2386,11 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 ### 自天涯社区客户端）
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296326194.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%
+<!-- 图:296326194.jpg | 原 URL: http://img3.laibafile.cn/p/l/296326194.jpg --><!-- 图:l%
 
-2F296326195.jpg{EIMAGE}
+2F296326195.jpg | 原 URL: http://img3.laibafile.cn/p/l%
+
+2F296326195.jpg -->
 
 ### 来自
 
@@ -2402,7 +2408,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 谁说的刚需啥时候上车都对？一年时间不到，小100 万没了，嘴炮们能给你？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296340354.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296340357.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296340363.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296340368.jpg{EIMAGE}
+<!-- 图:296340354.jpg | 原 URL: http://img3.laibafile.cn/p/l/296340354.jpg --><!-- 图:296340357.jpg | 原 URL: http://img3.laibafile.cn/p/l/296340357.jpg --><!-- 图:296340363.jpg | 原 URL: http://img3.laibafile.cn/p/l/296340363.jpg --><!-- 图:296340368.jpg | 原 URL: http://img3.laibafile.cn/p/l/296340368.jpg -->
 
 ### 来自
 
@@ -2412,7 +2418,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 他们的钱都是啃老来的，跌过几十万算啥，真心不痛。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296361047.jpg{EIMAGE}
+<!-- 图:296361047.jpg | 原 URL: http://img3.laibafile.cn/p/l/296361047.jpg -->
 
 ### 来自
 
@@ -2453,7 +2459,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 ### 515 楼
 
-作者:dindindanglaile 日期:2018-07-18 01:29{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296844320.jpg{EIMAGE}
+作者:dindindanglaile 日期:2018-07-18 01:29<!-- 图:296844320.jpg | 原 URL: http://img3.laibafile.cn/p/l/296844320.jpg -->
 
 ### 来自
 
@@ -2467,7 +2473,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 挂在网上且降价了。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296893851.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296893852.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296893853.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F296893854.jpg{EIMAGE}
+<!-- 图:296893851.jpg | 原 URL: http://img3.laibafile.cn/p/l/296893851.jpg --><!-- 图:296893852.jpg | 原 URL: http://img3.laibafile.cn/p/l/296893852.jpg --><!-- 图:296893853.jpg | 原 URL: http://img3.laibafile.cn/p/l/296893853.jpg --><!-- 图:296893854.jpg | 原 URL: http://img3.laibafile.cn/p/l/296893854.jpg -->
 
 ### 来自
 
@@ -2567,7 +2573,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 盯一下，看看这个能否抢跑成功。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297704282.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297704283.jpg{EIMAGE}
+<!-- 图:297704282.jpg | 原 URL: http://img3.laibafile.cn/p/l/297704282.jpg --><!-- 图:297704283.jpg | 原 URL: http://img3.laibafile.cn/p/l/297704283.jpg -->
 
 ### 来自
 
@@ -2589,7 +2595,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 记得几年前有人1 万买入，还心惊胆颤地发贴问值不值，也不知道这人跑了没？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297844296.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297844317.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297844318.jpg{EIMAGE}
+<!-- 图:297844296.jpg | 原 URL: http://img3.laibafile.cn/p/l/297844296.jpg --><!-- 图:297844317.jpg | 原 URL: http://img3.laibafile.cn/p/l/297844317.jpg --><!-- 图:297844318.jpg | 原 URL: http://img3.laibafile.cn/p/l/297844318.jpg -->
 
 ### 来自
 
@@ -2621,9 +2627,11 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 误入三楼，皮具箱包区域整片人去楼空，二楼商铺开一半左右，一楼开七成。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297970037.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297970041.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297970046.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%
+<!-- 图:297970037.jpg | 原 URL: http://img3.laibafile.cn/p/l/297970037.jpg --><!-- 图:297970041.jpg | 原 URL: http://img3.laibafile.cn/p/l/297970041.jpg --><!-- 图:297970046.jpg | 原 URL: http://img3.laibafile.cn/p/l/297970046.jpg --><!-- 图:l%
 
-2F297970048.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297970057.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297970376.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297970378.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297970379.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297970385.jpg{EIMAGE}
+2F297970048.jpg | 原 URL: http://img3.laibafile.cn/p/l%
+
+2F297970048.jpg --><!-- 图:297970057.jpg | 原 URL: http://img3.laibafile.cn/p/l/297970057.jpg --><!-- 图:297970376.jpg | 原 URL: http://img3.laibafile.cn/p/l/297970376.jpg --><!-- 图:297970378.jpg | 原 URL: http://img3.laibafile.cn/p/l/297970378.jpg --><!-- 图:297970379.jpg | 原 URL: http://img3.laibafile.cn/p/l/297970379.jpg --><!-- 图:297970385.jpg | 原 URL: http://img3.laibafile.cn/p/l/297970385.jpg -->
 
 ### 来自
 
@@ -2656,7 +2664,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 > 咚咚找房，深圳最大的房托写手营，都在说二手已凉凉，一手去化堪忧，你还说秒光，心里着急出现幻觉了？
 >
 >
-> {SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297977610.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F297977611.jpg{EIMAGE}
+> <!-- 图:297977610.jpg | 原 URL: http://img3.laibafile.cn/p/l/297977610.jpg --><!-- 图:297977611.jpg | 原 URL: http://img3.laibafile.cn/p/l/297977611.jpg -->
 >
 ### 来自
 
@@ -2718,7 +2726,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 大明白们能来说说么？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F298445480.jpg{EIMAGE}
+<!-- 图:298445480.jpg | 原 URL: http://img3.laibafile.cn/p/l/298445480.jpg -->
 
 ### 来自
 
@@ -2736,7 +2744,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 说个事实而己，触动了该楼主哪方面利益？要这么下狠手？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F298487332.jpg{EIMAGE}
+<!-- 图:298487332.jpg | 原 URL: http://img3.laibafile.cn/p/l/298487332.jpg -->
 
 ### 来自
 
@@ -2764,7 +2772,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 大家不要拍我，深圳的医保其实蛮不错，上次罗尔事件，女儿前后花了20 多万，个人支付也就3 万不到。文人卖弄文字诈捐的后果是这辈子走哪都让人呸。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F298598102.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F298598103.jpg{EIMAGE}
+<!-- 图:298598102.jpg | 原 URL: http://img3.laibafile.cn/p/l/298598102.jpg --><!-- 图:298598103.jpg | 原 URL: http://img3.laibafile.cn/p/l/298598103.jpg -->
 
 ### 来自
 
@@ -2772,9 +2780,11 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 作者:dindindanglaile 日期:2018-08-26 14:56警察已经劈谣，说卖茶男子没纠缠该女子，本城治安很好，警方效率真高。也让女子向社会公开道歉了，问题是卖茶男子为毛不道歉，拘留七天算啥？负三楼推销，真是会吓死人的好不好？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F298617965.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%
+<!-- 图:298617965.jpg | 原 URL: http://img3.laibafile.cn/p/l/298617965.jpg --><!-- 图:l%
 
-2F298617966.jpg{EIMAGE}
+2F298617966.jpg | 原 URL: http://img3.laibafile.cn/p/l%
+
+2F298617966.jpg -->
 
 ### 来自
 
@@ -2826,7 +2836,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 作者:dindindanglaile 日期:2018-09-01 15:34同学在恒大，刚刚发信息，让姐去帮忙完成任务，否则工资受影响。去不去呢？姐好怕后面的电话骚扰。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F298899681.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F298899686.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F298899690.jpg{EIMAGE}
+<!-- 图:298899681.jpg | 原 URL: http://img3.laibafile.cn/p/l/298899681.jpg --><!-- 图:298899686.jpg | 原 URL: http://img3.laibafile.cn/p/l/298899686.jpg --><!-- 图:298899690.jpg | 原 URL: http://img3.laibafile.cn/p/l/298899690.jpg -->
 
 ### 来自
 
@@ -2848,7 +2858,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 作者:dindindanglaile 日期:2018-09-02 22:19这么大的企业，欺上瞒下，一条龙配合，真有点大厦将倾的感觉。在里头出示了身体证，不会掉坑里吧？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F298949362.jpg{EIMAGE}
+<!-- 图:298949362.jpg | 原 URL: http://img3.laibafile.cn/p/l/298949362.jpg -->
 
 ### 来自
 
@@ -2942,7 +2952,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 姐写着玩而已，你删个什么劲？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299169787.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299169789.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299169793.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299169796.jpg{EIMAGE}
+<!-- 图:299169787.jpg | 原 URL: http://img3.laibafile.cn/p/l/299169787.jpg --><!-- 图:299169789.jpg | 原 URL: http://img3.laibafile.cn/p/l/299169789.jpg --><!-- 图:299169793.jpg | 原 URL: http://img3.laibafile.cn/p/l/299169793.jpg --><!-- 图:299169796.jpg | 原 URL: http://img3.laibafile.cn/p/l/299169796.jpg -->
 
 ### 来自
 
@@ -2987,7 +2997,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 （即到期贷款必须偿还），等着吧，国庆节一定会有打骨折清盘的。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299242094.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299242096.jpg{EIMAGE}
+<!-- 图:299242094.jpg | 原 URL: http://img3.laibafile.cn/p/l/299242094.jpg --><!-- 图:299242096.jpg | 原 URL: http://img3.laibafile.cn/p/l/299242096.jpg -->
 
 ### 来自
 
@@ -2999,9 +3009,11 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 孩子爸爸在买药方面是个网购高手，老家有个邻居奶奶胃出血，他网购了日本进口的惠加强，五盒不到200 块给治好了。大能人吧？姐以后也要学着点。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299277985.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%
+<!-- 图:299277985.jpg | 原 URL: http://img3.laibafile.cn/p/l/299277985.jpg --><!-- 图:l%
 
-2F299277987.jpg{EIMAGE}
+2F299277987.jpg | 原 URL: http://img3.laibafile.cn/p/l%
+
+2F299277987.jpg -->
 
 ### 来自
 
@@ -3051,7 +3063,7 @@ M1 在16 年8 月到顶，传导延后半年，即17 年2 月份左右房价是�
 
 至于跑不跑得掉，一看运气，二看人品。舍得一身剁，哪有不成的道理？毕竟深圳二手一天也成交200 多套，幸运儿那么多，为何不是你？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299445160.jpg{EIMAGE}
+<!-- 图:299445160.jpg | 原 URL: http://img3.laibafile.cn/p/l/299445160.jpg -->
 
 ### 来自
 
@@ -3213,7 +3225,7 @@ b、买方为公司时：（过户价-增值税）x3%
 
 不争不抢，做个明白人。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299507607.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299507611.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299507615.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299507619.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299507624.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299507630.jpg{EIMAGE}
+<!-- 图:299507607.jpg | 原 URL: http://img3.laibafile.cn/p/l/299507607.jpg --><!-- 图:299507611.jpg | 原 URL: http://img3.laibafile.cn/p/l/299507611.jpg --><!-- 图:299507615.jpg | 原 URL: http://img3.laibafile.cn/p/l/299507615.jpg --><!-- 图:299507619.jpg | 原 URL: http://img3.laibafile.cn/p/l/299507619.jpg --><!-- 图:299507624.jpg | 原 URL: http://img3.laibafile.cn/p/l/299507624.jpg --><!-- 图:299507630.jpg | 原 URL: http://img3.laibafile.cn/p/l/299507630.jpg -->
 
 ### 来自
 
@@ -3223,9 +3235,9 @@ b、买方为公司时：（过户价-增值税）x3%
 
 说到这份上，再不明白就是智商欠费了。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299532696.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299532697.jpg{EIMAGE}
+<!-- 图:299532696.jpg | 原 URL: http://img3.laibafile.cn/p/l/299532696.jpg --><!-- 图:299532697.jpg | 原 URL: http://img3.laibafile.cn/p/l/299532697.jpg -->
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299532700.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F299532705.jpg{EIMAGE}
+<!-- 图:299532700.jpg | 原 URL: http://img3.laibafile.cn/p/l/299532700.jpg --><!-- 图:299532705.jpg | 原 URL: http://img3.laibafile.cn/p/l/299532705.jpg -->
 
 ### 来自
 
@@ -3373,7 +3385,7 @@ b、买方为公司时：（过户价-增值税）x3%
 
 姐目前最看好恒大和碧桂园，看他们在抢最后一块面包时如何互殴，看贪吃蛇如何咬住自己的尾巴。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F300014314.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F300014315.jpg{EIMAGE}
+<!-- 图:300014314.jpg | 原 URL: http://img3.laibafile.cn/p/l/300014314.jpg --><!-- 图:300014315.jpg | 原 URL: http://img3.laibafile.cn/p/l/300014315.jpg -->
 
 ### 来自
 
@@ -3389,9 +3401,11 @@ b、买方为公司时：（过户价-增值税）x3%
 
 唉，再也不与家人说房子，各人自扫门前雪，极好。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F300136661.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%
+<!-- 图:300136661.jpg | 原 URL: http://img3.laibafile.cn/p/l/300136661.jpg --><!-- 图:l%
 
-2F300136662.jpg{EIMAGE}
+2F300136662.jpg | 原 URL: http://img3.laibafile.cn/p/l%
+
+2F300136662.jpg -->
 
 ### 来自
 
@@ -3629,7 +3643,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 一声叹息，保住工作。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F300749321.jpg{EIMAGE}
+<!-- 图:300749321.jpg | 原 URL: http://img3.laibafile.cn/p/l/300749321.jpg -->
 
 ### 来自
 
@@ -3641,9 +3655,11 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 至于姐的邻居们，他们都是在15 年结伴以5~6k 单价买入了惠州房产，目前已经装修成渡假房了准备终身持有，姐也在那最疯狂的时刻，入手了深圳某宇宙中心地带小产权房一套，歪打正着，姐的小产权是唯一一个产生回报的房子。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%
+<!-- 图:l%
 
-2F300812524.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F300812527.jpg{EIMAGE}
+2F300812524.jpg | 原 URL: http://img3.laibafile.cn/p/l%
+
+2F300812524.jpg --><!-- 图:300812527.jpg | 原 URL: http://img3.laibafile.cn/p/l/300812527.jpg -->
 
 ### 来自
 
@@ -3687,7 +3703,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 不久前查实同事职务侵占的事，前后也闹了这么一曲，姐算是长见识了，在某些人眼里，他年轻的生命连几十万都不值啊，有勇气去死，勒紧裤腰奋斗几年能怎么地？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F300835043.jpg{EIMAGE}
+<!-- 图:300835043.jpg | 原 URL: http://img3.laibafile.cn/p/l/300835043.jpg -->
 
 ### 来自
 
@@ -3711,7 +3727,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 说好的金九银十、中秋过便是年（置业好时机），难道都是骗人的？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F300860342.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F300860344.jpg{EIMAGE}
+<!-- 图:300860342.jpg | 原 URL: http://img3.laibafile.cn/p/l/300860342.jpg --><!-- 图:300860344.jpg | 原 URL: http://img3.laibafile.cn/p/l/300860344.jpg -->
 
 ### 来自
 
@@ -3751,7 +3767,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 有自己的房子当然好，但被人榨干几十年，姐不干。姐就愿意吃点利息，舒坦。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301029625.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301029626.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301029629.jpg{EIMAGE}
+<!-- 图:301029625.jpg | 原 URL: http://img3.laibafile.cn/p/l/301029625.jpg --><!-- 图:301029626.jpg | 原 URL: http://img3.laibafile.cn/p/l/301029626.jpg --><!-- 图:301029629.jpg | 原 URL: http://img3.laibafile.cn/p/l/301029629.jpg -->
 
 ### 来自
 
@@ -4144,7 +4160,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 呵呵，与以往不同，苹果不是冰冻的，说明是产地直运过来的（冻的一般是大炒家用冻库囤的货）。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301451721.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301451723.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301451724.jpg{EIMAGE}
+<!-- 图:301451721.jpg | 原 URL: http://img3.laibafile.cn/p/l/301451721.jpg --><!-- 图:301451723.jpg | 原 URL: http://img3.laibafile.cn/p/l/301451723.jpg --><!-- 图:301451724.jpg | 原 URL: http://img3.laibafile.cn/p/l/301451724.jpg -->
 
 ### 来自
 
@@ -4182,7 +4198,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 要是发这图给她，是否能治愈她的伤痕？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301697332.jpg{EIMAGE}
+<!-- 图:301697332.jpg | 原 URL: http://img3.laibafile.cn/p/l/301697332.jpg -->
 
 ### 来自
 
@@ -4206,7 +4222,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 看看，一个口口声声说任何时候买房都是赢了世道的中介，居然也知道大萧条，看着自己的手下一个个改行，他应该也知道自己死期不远矣，区域老总就快头肿脚肿了。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301892062.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301892064.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301892065.jpg{EIMAGE}
+<!-- 图:301892062.jpg | 原 URL: http://img3.laibafile.cn/p/l/301892062.jpg --><!-- 图:301892064.jpg | 原 URL: http://img3.laibafile.cn/p/l/301892064.jpg --><!-- 图:301892065.jpg | 原 URL: http://img3.laibafile.cn/p/l/301892065.jpg -->
 
 ### 来自
 
@@ -4220,7 +4236,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 真是钱扔水里了，响声也没一个，要知道去年卖房前，姐自己操作，还小赚10％哩！还是万事都不可假手于人，信自己方得永生啊。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301988588.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301988589.jpg{EIMAGE}
+<!-- 图:301988588.jpg | 原 URL: http://img3.laibafile.cn/p/l/301988588.jpg --><!-- 图:301988589.jpg | 原 URL: http://img3.laibafile.cn/p/l/301988589.jpg -->
 
 ### 来自
 
@@ -4238,7 +4254,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 等自住房尾款到手，还完贷后的余款又能供上几年了，估计她是这么想的，至于别人是否会在这期间砸盘，她应该也不敢多想。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301994878.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301994879.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F301994880.jpg{EIMAGE}
+<!-- 图:301994878.jpg | 原 URL: http://img3.laibafile.cn/p/l/301994878.jpg --><!-- 图:301994879.jpg | 原 URL: http://img3.laibafile.cn/p/l/301994879.jpg --><!-- 图:301994880.jpg | 原 URL: http://img3.laibafile.cn/p/l/301994880.jpg -->
 
 ### 来自
 
@@ -4258,7 +4274,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 高时报价2.5 万以上，现在是1.5 万，姐感觉1 万都会卖，想要的拿走不谢啊！
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F302039761.jpg{EIMAGE}
+<!-- 图:302039761.jpg | 原 URL: http://img3.laibafile.cn/p/l/302039761.jpg -->
 
 ### 来自
 
@@ -4288,9 +4304,11 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 同去们可以去网上欣赏下哈，姐也不定期会上去看看。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F302103254.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F302103255.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%
+<!-- 图:302103254.jpg | 原 URL: http://img3.laibafile.cn/p/l/302103254.jpg --><!-- 图:302103255.jpg | 原 URL: http://img3.laibafile.cn/p/l/302103255.jpg --><!-- 图:l%
 
-2F302103256.jpg{EIMAGE}
+2F302103256.jpg | 原 URL: http://img3.laibafile.cn/p/l%
+
+2F302103256.jpg -->
 
 ### 来自
 
@@ -4342,9 +4360,11 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 从此朋友圈里，姐又少了一个朋友。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F302412776.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F302412779.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F302412782.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F302412787.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%
+<!-- 图:302412776.jpg | 原 URL: http://img3.laibafile.cn/p/l/302412776.jpg --><!-- 图:302412779.jpg | 原 URL: http://img3.laibafile.cn/p/l/302412779.jpg --><!-- 图:302412782.jpg | 原 URL: http://img3.laibafile.cn/p/l/302412782.jpg --><!-- 图:302412787.jpg | 原 URL: http://img3.laibafile.cn/p/l/302412787.jpg --><!-- 图:l%
 
-2F302412790.jpg{EIMAGE}
+2F302412790.jpg | 原 URL: http://img3.laibafile.cn/p/l%
+
+2F302412790.jpg -->
 
 ### 来自
 
@@ -4354,7 +4374,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 图二，房天下房源，姐随便按单价从低到高排序，截了几个住宅样本，都是15 年左右的房龄，单价还在2.3~2..5万间（有人说房天下挂低价招客，意思是应该还高很多）。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F302754537.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F302754538.jpg{EIMAGE}
+<!-- 图:302754537.jpg | 原 URL: http://img3.laibafile.cn/p/l/302754537.jpg --><!-- 图:302754538.jpg | 原 URL: http://img3.laibafile.cn/p/l/302754538.jpg -->
 
 ### 来自
 
@@ -4567,7 +4587,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 >
 > **先谢谢了**
 >
->> -----------------------------{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F303692502.png{EIMAGE}你可上图中的网站看，最直接
+>> -----------------------------<!-- 图:303692502.png | 原 URL: http://img3.laibafile.cn/p/m/303692502.png -->你可上图中的网站看，最直接
 
 ### 936 楼
 
@@ -4583,9 +4603,9 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 姐是否要打下他的脸去？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F303701255.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F303701257.jpg{EIMAGE}
+<!-- 图:303701255.jpg | 原 URL: http://img3.laibafile.cn/p/l/303701255.jpg --><!-- 图:303701257.jpg | 原 URL: http://img3.laibafile.cn/p/l/303701257.jpg -->
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F303701258.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F303701259.jpg{EIMAGE}
+<!-- 图:303701258.jpg | 原 URL: http://img3.laibafile.cn/p/l/303701258.jpg --><!-- 图:303701259.jpg | 原 URL: http://img3.laibafile.cn/p/l/303701259.jpg -->
 
 ### 来自
 
@@ -4629,7 +4649,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 作者:dindindanglaile 日期:2018-12-24 13:53没打码，大家去围观下，一个患癌的房奴，两行老泪一把辛酸，诉与谁人听？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F303791461.jpg{EIMAGE}
+<!-- 图:303791461.jpg | 原 URL: http://img3.laibafile.cn/p/l/303791461.jpg -->
 
 ### 来自
 
@@ -4659,7 +4679,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 哈哈哈，看来我们关联公司被信托爆掉的大几千万，也有希望了？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F303900713.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F303900717.jpg{EIMAGE}
+<!-- 图:303900713.jpg | 原 URL: http://img3.laibafile.cn/p/l/303900713.jpg --><!-- 图:303900717.jpg | 原 URL: http://img3.laibafile.cn/p/l/303900717.jpg -->
 
 ### 来自
 
@@ -4719,7 +4739,7 @@ Q 房网数据研究中心监控显示，国庆大假一周，深圳新房成交
 
 他们只对有差价吃的委托热情似火，其他所有的委托，都不过是替他们手里的盘站岗罢了。当然，像这样为了孩子读书不惜买几百万砖头的，买房时给付佣金一定也不含糊，曾经也是肥肉啊。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F304042165.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F304042166.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F304042167.jpg{EIMAGE}
+<!-- 图:304042165.jpg | 原 URL: http://img3.laibafile.cn/p/l/304042165.jpg --><!-- 图:304042166.jpg | 原 URL: http://img3.laibafile.cn/p/l/304042166.jpg --><!-- 图:304042167.jpg | 原 URL: http://img3.laibafile.cn/p/l/304042167.jpg -->
 
 ### 来自
 
@@ -4773,7 +4793,7 @@ Q 房APP 上，同户型依然挂着360 万。
 
 所以目前的真实成交价，大约相当于App 上挂的6~7 折。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F304376579.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F304376581.jpg{EIMAGE}
+<!-- 图:304376579.jpg | 原 URL: http://img3.laibafile.cn/p/l/304376579.jpg --><!-- 图:304376581.jpg | 原 URL: http://img3.laibafile.cn/p/l/304376581.jpg -->
 
 ### 来自
 
@@ -4781,7 +4801,7 @@ Q 房APP 上，同户型依然挂着360 万。
 
 作者:dindindanglaile 日期:2019-01-09 14:23上面发的朋友圈280 万抢跑的，同个户型Q 房挂卖是480万，这是传说中的腰斩？
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F304415371.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F304415375.jpg{EIMAGE}
+<!-- 图:304415371.jpg | 原 URL: http://img3.laibafile.cn/p/l/304415371.jpg --><!-- 图:304415375.jpg | 原 URL: http://img3.laibafile.cn/p/l/304415375.jpg -->
 
 ### 来自
 
@@ -4881,7 +4901,7 @@ Q 房APP 上，同户型依然挂着360 万。
 
 一句说来，沿街开的服装店、床品店、鞋店，真的太难生存了。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F304465935.jpg{EIMAGE}
+<!-- 图:304465935.jpg | 原 URL: http://img3.laibafile.cn/p/l/304465935.jpg -->
 
 ### 来自
 
@@ -4895,7 +4915,7 @@ Q 房APP 上，同户型依然挂着360 万。
 
 自古以来上有政策、下有对策。好汉不会给尿憋死，等着瞧吧！
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F304466214.jpg{EIMAGE}
+<!-- 图:304466214.jpg | 原 URL: http://img3.laibafile.cn/p/l/304466214.jpg -->
 
 ### 来自
 
@@ -4957,7 +4977,7 @@ Q 房APP 上，同户型依然挂着360 万。
 
 作者:dindindanglaile 日期:2019-01-30 15:22没事翻翻绿中介的成交纪录，这个小区的房价已跌到2015 年了，对于2015~2016 年抢到房的来讲，真是南柯一梦啊。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F305241385.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F305241386.jpg{EIMAGE}
+<!-- 图:305241385.jpg | 原 URL: http://img3.laibafile.cn/p/l/305241385.jpg --><!-- 图:305241386.jpg | 原 URL: http://img3.laibafile.cn/p/l/305241386.jpg -->
 
 ### 来自
 
@@ -5083,7 +5103,7 @@ Q 房APP 上，同户型依然挂着360 万。
 
 ### 1059 楼
 
-作者:dindindanglaile 日期:2019-02-14 14:47{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F305598738.png{EIMAGE}这个小区，姐是最熟悉不过了。
+作者:dindindanglaile 日期:2019-02-14 14:47<!-- 图:305598738.png | 原 URL: http://img3.laibafile.cn/p/m/305598738.png -->这个小区，姐是最熟悉不过了。
 
 97.3 平方，法拍200 万，绿中介起码挂300 以上。
 
@@ -5091,7 +5111,7 @@ Q 房APP 上，同户型依然挂着360 万。
 
 ### 1060 楼
 
-作者:dindindanglaile 日期:2019-02-14 15:55{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F305601530.png{EIMAGE}刚刚上绿中介看了下，上面法拍房同小区的96 平，居然还挂380 万。
+作者:dindindanglaile 日期:2019-02-14 15:55<!-- 图:305601530.png | 原 URL: http://img3.laibafile.cn/p/m/305601530.png -->刚刚上绿中介看了下，上面法拍房同小区的96 平，居然还挂380 万。
 
 只能说房东们如果14 年前买的，以租代供真没问题，挂500 万也是可以的，明知卖不掉也要任性一把。后面买的尤其是16 年后买的，估计以租代供缺口太大，看着情况不妙会割肉抢跑。
 
@@ -5099,7 +5119,7 @@ Q 房APP 上，同户型依然挂着360 万。
 
 作者:dindindanglaile 日期:2019-02-15 22:17看到这种新闻，好有喜感，法律是1 月31 日连夜起草拟定并通过的么？若不是，赶紧把宝强之流抓起来，海外买那么多房，还有冯钢炮之流，心痛咱们的外汇啊。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F305645352.jpg{EIMAGE}
+<!-- 图:305645352.jpg | 原 URL: http://img3.laibafile.cn/p/l/305645352.jpg -->
 
 ### 来自
 
@@ -5156,15 +5176,17 @@ Q 房APP 上，同户型依然挂着360 万。
 
 好吧，姐错了，原来以为天涯是可以畅聊人生百态的，未曾想到蛆虫疯狗也遍地了，投降。
 
-{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F305882012.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F305882013.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F305882016.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F305882018.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F305882020.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F305882022.jpg{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fl%2F305882023.jpg{EIMAGE}
+<!-- 图:305882012.jpg | 原 URL: http://img3.laibafile.cn/p/l/305882012.jpg --><!-- 图:305882013.jpg | 原 URL: http://img3.laibafile.cn/p/l/305882013.jpg --><!-- 图:305882016.jpg | 原 URL: http://img3.laibafile.cn/p/l/305882016.jpg --><!-- 图:305882018.jpg | 原 URL: http://img3.laibafile.cn/p/l/305882018.jpg --><!-- 图:305882020.jpg | 原 URL: http://img3.laibafile.cn/p/l/305882020.jpg --><!-- 图:305882022.jpg | 原 URL: http://img3.laibafile.cn/p/l/305882022.jpg --><!-- 图:305882023.jpg | 原 URL: http://img3.laibafile.cn/p/l/305882023.jpg -->
 
 ### 来自
 
 ### 1085 楼
 
-作者:dindindanglaile 日期:2019-02-23 17:01{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%
+作者:dindindanglaile 日期:2019-02-23 17:01<!-- 图:m%
 
-2F305894503.png{EIMAGE}{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F305894510.png{EIMAGE}绿中介成交，信息不对称，结果就是这么伤人。
+2F305894503.png | 原 URL: http://img3.laibafile.cn/p/m%
+
+2F305894503.png --><!-- 图:305894510.png | 原 URL: http://img3.laibafile.cn/p/m/305894510.png -->绿中介成交，信息不对称，结果就是这么伤人。
 
 ### 1086 楼
 
@@ -5208,7 +5230,7 @@ Q 房APP 上，同户型依然挂着360 万。
 
 ### 1095 楼
 
-作者:dindindanglaile 日期:2019-02-25 17:51{SIMAGE}http%3A%2F%2Fimg3.laibafile.cn%2Fp%2Fm%2F305957803.png{EIMAGE}前面说装修了不敢去住的朋友，2017 年底320 万买的本小区，还是同栋朝西88 平的。
+作者:dindindanglaile 日期:2019-02-25 17:51<!-- 图:305957803.png | 原 URL: http://img3.laibafile.cn/p/m/305957803.png -->前面说装修了不敢去住的朋友，2017 年底320 万买的本小区，还是同栋朝西88 平的。
 
 那时姐已在写这个贴子，让她不忙出手，但她为了老公的人才补贴（博士后每年32 万，共补5 年共160 万），赶在17 年12 月31 日前完成了备案。
 
